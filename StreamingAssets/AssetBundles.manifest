@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 433788852
+CRC: 1726068926
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: externalresources
+      Name: charactor
       Dependencies: {}

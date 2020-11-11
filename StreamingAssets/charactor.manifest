@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1114461745
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c894669d57d115859ccde37b5bc66086
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e083c2a594f12fe17f464093283aaaca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4be87141b1196b448f53a67af6167f5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/ExternalResources/charactor/chara_0000.prefab
+Dependencies: []
