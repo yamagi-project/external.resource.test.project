@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2138380259
+CRC: 3427348237
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5e0166bd7ca84a951a3594c652d7a7b5
+    Hash: 4537837c7e84fc8591a710210ea39457
   TypeTreeHash:
     serializedVersion: 2
     Hash: 836e77d3435167f4a8ca3ce3a76d860c
@@ -33,4 +33,5 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/ExternalResources/charactor/chara_0000.prefab
+- Assets/ExternalResources/charactor/chara_0001.prefab
 Dependencies: []
