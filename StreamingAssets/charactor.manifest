@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3427348237
+CRC: 1060738023
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4537837c7e84fc8591a710210ea39457
+    Hash: 2e69ecb1b768aeb004d2ecc11e776cd2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 836e77d3435167f4a8ca3ce3a76d860c
+    Hash: af2f7956dcc8055624b16ff659f37858
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,6 +30,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: f4be87141b1196b448f53a67af6167f5, type: 3}
 - Class: 115
+  Script: {instanceID: 0}
+- Class: 135
   Script: {instanceID: 0}
 Assets:
 - Assets/ExternalResources/charactor/chara_0000.prefab
