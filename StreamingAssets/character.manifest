@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3331687090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 426b769546a0359b2ca538a00275dabc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f543148cf8879436e40c18cd93e9eb6e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 125b9f6e6906d6e4897a443b3c12729c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/ExternalResources/character/0000/chara_0000.prefab
+- Assets/ExternalResources/character/0001/chara_0001.prefab
+- Assets/ExternalResources/character/0003/chara_0003.prefab
+- Assets/ExternalResources/character/0000/chara_icon_0000.prefab
+- Assets/ExternalResources/character/0004/chara_0004.prefab
+- Assets/ExternalResources/character/0002/chara_0002.prefab
+- Assets/ExternalResources/character/0001/chara_icon_0001.prefab
+- Assets/ExternalResources/character/0003/chara_icon_0003.prefab
+- Assets/ExternalResources/character/0004/chara_icon_0004.prefab
+- Assets/ExternalResources/character/0002/chara_icon_0002.prefab
+Dependencies: []

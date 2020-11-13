@@ -1,7 +1,13 @@
 ManifestFileVersion: 0
-CRC: 3187743195
+CRC: 2244483909
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: charactor
+      Name: stage
+      Dependencies: {}
+    Info_1:
+      Name: tower
+      Dependencies: {}
+    Info_2:
+      Name: character
       Dependencies: {}
